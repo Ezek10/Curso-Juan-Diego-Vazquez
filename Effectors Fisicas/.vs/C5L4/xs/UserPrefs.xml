@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{72E4ED8B-82D5-DC7B-DE81-63464F182392}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AddForce.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AddForce.cs" Line="29" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

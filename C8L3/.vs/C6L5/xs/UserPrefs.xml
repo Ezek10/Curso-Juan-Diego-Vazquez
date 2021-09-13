@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2DA7F4F7-474F-EEBB-F24D-FB71856DB597}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollectibleItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CollectibleItem.cs" Line="25" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

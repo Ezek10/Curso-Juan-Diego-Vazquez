@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7519B3AA-8B56-E968-5669-1B2D81E22496}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadScene.cs">
+    <Files>
+      <File FileName="Assets/LoadScene.cs" Line="12" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

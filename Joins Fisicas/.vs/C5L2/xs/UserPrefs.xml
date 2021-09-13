@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{91CB38A2-64CE-B68B-71BD-9CF70FEFDD2F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ColliderDetector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TriggerDetector.cs" Line="9" Column="50" />
+      <File FileName="Assets/Scripts/ColliderDetector.cs" Line="19" Column="103" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
